@@ -8,11 +8,11 @@ To recreate the conda environment used for this project, follow these steps:
 
 1. Create the conda environment from the `environment.yml` file:
    ```bash
-    conda env create -f environment.yml
+    conda env create -f env.yml
    ```
 2. Activate the new environment:
    ```bash
-    conda activate trec-ikat
+    conda activate ikat24
    ```
 
 ## Usage
