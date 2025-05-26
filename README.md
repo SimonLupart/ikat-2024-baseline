@@ -1,6 +1,8 @@
-# Code for baselines of the TREC iKAT 2024 track
+# Code for baselines of the TREC iKAT track
 
-This code gives a baseline for generating a run file for TREC iKAT 2024 track.
+[iKAT 2025] Coming soon with SPLADE
+
+[iKAT 2024] This code gives a baseline for generating a run file for the TREC iKAT 2024 track.
 
 ## Recreating the Conda Environment
 
